@@ -1,0 +1,10 @@
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Claims\bin\Debug\Claims.exe.config
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Claims\bin\Debug\Claims.exe
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Claims\bin\Debug\Claims.pdb
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Claims\bin\Debug\ClaimRepository.dll
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Claims\bin\Debug\ClaimRepository.pdb
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Claims\obj\Debug\Challenge_02_Console.csprojAssemblyReference.cache
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Claims\obj\Debug\Challenge_02_Console.csproj.CoreCompileInputs.cache
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Claims\obj\Debug\Challenge_02_Console.csproj.CopyComplete
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Claims\obj\Debug\Claims.exe
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Claims\obj\Debug\Claims.pdb

@@ -1,0 +1,10 @@
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge _01_Console\bin\Debug\Challenge _01_Console.exe.config
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge _01_Console\bin\Debug\Challenge _01_Console.exe
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge _01_Console\bin\Debug\Challenge _01_Console.pdb
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge _01_Console\bin\Debug\Challenge_01_Repository.dll
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge _01_Console\bin\Debug\Challenge_01_Repository.pdb
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge _01_Console\obj\Debug\Challenge _01_Console.csprojAssemblyReference.cache
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge _01_Console\obj\Debug\Challenge _01_Console.csproj.CoreCompileInputs.cache
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge _01_Console\obj\Debug\Challenge _01_Console.csproj.CopyComplete
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge _01_Console\obj\Debug\Challenge _01_Console.exe
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge _01_Console\obj\Debug\Challenge _01_Console.pdb

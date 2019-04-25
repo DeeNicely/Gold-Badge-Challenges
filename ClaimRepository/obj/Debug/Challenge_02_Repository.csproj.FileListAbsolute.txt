@@ -1,0 +1,6 @@
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\ClaimRepository\bin\Debug\ClaimRepository.dll
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\ClaimRepository\bin\Debug\ClaimRepository.pdb
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\ClaimRepository\obj\Debug\Challenge_02_Repository.csprojAssemblyReference.cache
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\ClaimRepository\obj\Debug\Challenge_02_Repository.csproj.CoreCompileInputs.cache
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\ClaimRepository\obj\Debug\ClaimRepository.dll
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\ClaimRepository\obj\Debug\ClaimRepository.pdb

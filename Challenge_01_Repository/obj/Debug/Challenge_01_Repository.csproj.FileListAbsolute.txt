@@ -1,0 +1,6 @@
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge_01_Repository\bin\Debug\Challenge_01_Repository.dll
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge_01_Repository\bin\Debug\Challenge_01_Repository.pdb
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge_01_Repository\obj\Debug\Challenge_01_Repository.csprojAssemblyReference.cache
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge_01_Repository\obj\Debug\Challenge_01_Repository.csproj.CoreCompileInputs.cache
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge_01_Repository\obj\Debug\Challenge_01_Repository.dll
+C:\Users\deeln\source\repos\Gold_Badge+Challenges\Challenge_01_Repository\obj\Debug\Challenge_01_Repository.pdb
