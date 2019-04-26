@@ -73,9 +73,7 @@ namespace Challenge_05_Console
                 "3. Potential");
             int customerTypeAsInt = int.Parse(Console.ReadLine());
 
-            //string carTypeAsString = Console.ReadLine();
-            //int carTypeAsInt = int.Parse(carTypeAsString);
-
+           
             CustomerType type;
             switch (customerTypeAsInt)
             {
@@ -90,25 +88,16 @@ namespace Challenge_05_Console
                     type = CustomerType.Potential;
                     break;
             }
-            Console.WriteLine("What is the Car ID number? ");
-            string carIDAsString = Console.ReadLine();
-            int carID = int.Parse(carIDAsString);
 
-            Console.WriteLine("What is the year and make of the car?");
-            string make = Console.ReadLine();
+            Console.WriteLine("What is the customers last name?");
+            string lastNamemake = Console.ReadLine();
 
-            Console.WriteLine("What is the model of the car?");
-            string model = Console.ReadLine();
+            Console.WriteLine("What is the customers first name?");
+            string firstNeme = Console.ReadLine();
 
-            Console.WriteLine("What is the mileage on the car? ");
-            string mileageAsString = Console.ReadLine();
-            int mileage = int.Parse(mileageAsString);
-
-            Console.WriteLine("What is the price of the car? ($xx,xxx)");
-            string priceAsString = Console.ReadLine();
-            decimal price = decimal.Parse(priceAsString);
-
-
+            Console.WriteLine("What is the customer type? ");
+            string typeOfCustomer = Console.ReadLine();
+            
 
             Email newEmailItem = new Email(typeOfCustomer, lastName, firstName, emailMessage);
             _emailRepo.AddCustomerToList(newEmailItem);
@@ -135,10 +124,25 @@ namespace Challenge_05_Console
 
         public void PrintCustomer()
         {
-            foreach (CustomerType customer in _listOfCustomers)
+            foreach (LastName customer in _listOfCustomers)
             {
                 Console.WriteLine($"{customer.TypeOfCustomer} {customer.LastName} {customer.FirstName} {customer.EmailMessage}\n");
             }
+
+            //   var sortedList = list.OrderBy(x => x).ToList();
+          //  private void SeeAllCustomersAlphabetically()
+          //  {
+          //      List<Customer> list = _customerRepo.GetCustomerList();
+           //     List<Customer> sortedList = list.OrderBy(c => c.LastName).ThenBy(c => c.FirstName).ToList();
+           //
+            //    Console.WriteLine("Type of customer, First Name,  Last Name");
+              //  foreach (Customer c in sortedList)
+               // {
+                //    Console.WriteLine($"{c.TypeOfCustomer} {c.FirstName} {c.LastName} ");
+              //  }
+              //  Console.ReadLine();
+           // }
+
             Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
         }
@@ -153,7 +157,7 @@ namespace Challenge_05_Console
             {
                 if (lastName == customer.LastName)
                 {
-                    _emailRepo.RemoveCustomer(customer);
+                    _listOfCustomers.RemoveCustomer(customer);
                     break;
                 }
             }
@@ -185,9 +189,9 @@ namespace Challenge_05_Console
         {
             PrintCustomer();
             Console.WriteLine("Enter the last name of the customer you would like to update.");
-            //int carID = int.Parse(Console.ReadLine());
+            //string lastName = int.Parse(Console.ReadLine());
             string lastName = (Console.ReadLine());
-            string updateCustomer = new Customer();
+            string updateCustomer = new LastName();
 
             foreach (var customer in _listOfCustomers)
             {
